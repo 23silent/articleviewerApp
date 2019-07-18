@@ -1,0 +1,16 @@
+{
+  "createdWith": "2.2.4",
+  "boilerplate": "ignite-boilerplate-andross-typescript",
+  "examples": "classic",
+  "navigation": "react-navigation",
+  "askToOverwrite": true,
+  "generators": {
+    "component": "ignite-boilerplate-andross-typescript",
+    "container": "ignite-boilerplate-andross-typescript",
+    "listview": "ignite-boilerplate-andross-typescript",
+    "list": "ignite-boilerplate-andross-typescript",
+    "redux": "ignite-boilerplate-andross-typescript",
+    "saga": "ignite-boilerplate-andross-typescript",
+    "screen": "ignite-boilerplate-andross-typescript"
+  }
+}
