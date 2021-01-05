@@ -31,7 +31,7 @@
     "@react-native-community/async-storage": "^1.5.1",
     "apisauce": "^0.16.0",
     "autobind-decorator": "^2.1.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "format-json": "^1.0.3",
     "html-to-text": "^5.1.1",
     "i18n-js": "^3.0.11",
